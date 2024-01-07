@@ -10,3 +10,37 @@ table {
   th {
     background-color: #f2f2f2;
   }
+
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.developers {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.developer-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.developer-name {
+    font-weight: bold;
+}
+
+.developer-github {
+    color: #4CAF50;
+}
