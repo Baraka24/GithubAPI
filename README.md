@@ -56,8 +56,8 @@ npm run build
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
     <!-- Baraka Kinywa -->
     <div style="text-align: center; margin-right: 50px;">
-        <img src="https://avatars.githubusercontent.com/u/Baraka24?size=200" alt="Baraka Kinywa" style="border-radius: 50%; width: 100px; height: 100px; overflow: hidden;">
-        <p style="margin: 10px 0; font-weight: bold;">Baraka Kinywa</p>
+        <!-- Bruno Kambere -->
+        <p style="margin: 10px 0; font-weight: bold;"></p>
         <a href="https://github.com/Baraka24">
             <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="30" height="30" style="margin-right: 5px;">
             GitHub
