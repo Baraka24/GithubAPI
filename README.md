@@ -64,14 +64,7 @@ npm run build
         </a>
     </div>
 
-    <!-- Bruno Kambere -->
-    <div style="text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/kambereBr?size=200" alt="Bruno Kambere" style="border-radius: 50%; width: 100px; height: 100px; overflow: hidden;">
-        <p style="margin: 10px 0; font-weight: bold;">Bruno Kambere</p>
-        <a href="https://github.com/kambereBr">
-            <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="30" height="30" style="margin-right: 5px;">
-            GitHub
-        </a>
-    </div>
+
+
 </div>
 
